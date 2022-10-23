@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to DragonBoy_Termux 👋</h1>
-<img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage.png" />
-
+<img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage0.png" />
+<img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage1.png" />
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
   <img alt="Update" src="https://img.shields.io/badge/update-25/10/2022-blue.svg?cacheSeconds=2592000" />
