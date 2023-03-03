@@ -1,5 +1,8 @@
-@ Version 1
-- Khởi tạo Server
+@ Version 2
+- Kích hoạt chế độ Online (1 và 2)
+- Sửa lỗi đổi password mysql
+- Thêm Chỉnh tỉ lệ kinh nghiệm server
+- Thêm Chỉnh tên Server
 
 LƯU Ý: KHUYẾN KHÍCH NÊN BACKUP DATA GAME SAU ĐÓ CÀI ĐẶT LẠI
 BẠN CẦN CÀI ĐẶT PHIÊN BẢN NÀY TRƯỚC KHI SỬ DỤNG! ĐÂY LÀ BẮT BUỘC!
