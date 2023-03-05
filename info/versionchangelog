@@ -1,9 +1,12 @@
-@ Version 3
-- Sửa các lỗi Buff! [Đệ tử tạm thời không thể buff bằng menu]
-- Thêm skip, quay về nhiệm vụ (Nằm ở mục Buff, tại số 0)
-- Tùy chỉnh tỉ lệ kinh nghiệm server giảm về 1-100 thay vì 1-10000
-- Thêm mục Xóa đệ tử (dành cho ai lở buff đệ tử bị lỗi acc)
-- Sửa lỗi 1 số thứ khác
+@ Version 4
+- Sửa lỗi buff Crit gốc
+- Sửa lỗi buff vàng bị lỗi acc
+- Thêm xem toàn bộ ID vật phẩm, quái
+- Thêm chỉnh sửa HP, Tốc độ đánh của quái
+- Thêm chỉnh sửa giá vàng, sức mạnh yêu cầu, gợi ý lệnh buff đồ
+- Sửa lỗi Xem thông tin tài khoản
+- Thêm Reset vàng/ngọc, reset tất cả chỉ số (nếu acc bị lỗi)
+- Sửa 1 số lỗi vật khác
 
 LƯU Ý: KHUYẾN KHÍCH NÊN BACKUP DATA GAME SAU ĐÓ CÀI ĐẶT LẠI
 BẠN CẦN CÀI ĐẶT PHIÊN BẢN NÀY TRƯỚC KHI SỬ DỤNG! ĐÂY LÀ BẮT BUỘC!
