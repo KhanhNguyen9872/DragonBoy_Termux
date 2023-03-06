@@ -6,9 +6,6 @@
 2. Chụp hình bill đã chuyển và gửi qua Zalo: 0937927513
 3. Chờ tui online:>>>
 
-# 1 số tính năng về buff vẫn đang trong quá trình sửa chữa(trừ buff vàng, ngọc xanh, ngọc đỏ, sức mạnh nhân vật chính)
-# Online sẽ sớm ra mắt!
-
 <h1 align="center">Welcome to DragonBoy_Termux 👋</h1>
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage0.png" />
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage1.png" />
