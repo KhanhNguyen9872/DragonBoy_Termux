@@ -1,13 +1,12 @@
-@ Version 4
-- Sửa lỗi buff Crit gốc
-- Sửa lỗi buff vàng bị lỗi acc
-- Thêm xem toàn bộ ID vật phẩm, quái
-- Thêm chỉnh sửa HP, Tốc độ đánh của quái
-- Thêm chỉnh sửa giá vàng, sức mạnh yêu cầu, gợi ý lệnh buff đồ
-- Sửa lỗi Xem thông tin tài khoản
-- Thêm Reset vàng/ngọc, reset tất cả chỉ số (nếu acc bị lỗi)
-- Sửa 1 số lỗi vật khác
+@ Version 5
+- Thêm Fix Android 12 khi chưa nhập KEY
+- Update source fix lỗi, thêm cải trang (Cần cài đặt lại database và không thể dùng file backup cũ)
+- Thêm các tính năng về Giftcode
+- Tự động sync IP Online, không cần phải mở online trước dragon sau, thích cái nào trước cũng được!
+- Xóa dòng KhanhNguyen9872 bên dưới game khi đang chơi
+- Tự động load lại web nếu chỉnh quyền truy cập phpMyAdmin
 
+>> Bản này không thể sử dụng database v4 cũ
 LƯU Ý: KHUYẾN KHÍCH NÊN BACKUP DATA GAME SAU ĐÓ CÀI ĐẶT LẠI
 BẠN CẦN CÀI ĐẶT PHIÊN BẢN NÀY TRƯỚC KHI SỬ DỤNG! ĐÂY LÀ BẮT BUỘC!
 - Thanks for used <3
