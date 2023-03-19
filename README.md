@@ -47,6 +47,11 @@
 
 ### ✨ [Video & Screenshot](https://github.com/KhanhNguyen9872/DragonBoy_Termux/blob/main/DEMO.md)
 
+## Lệnh Admin
+```
+navip
+```
+
 ## Install
  - Tutorial: [Not Available](https://khanhnguyen9872.github.io/DragonBoy_Termux#)
  
