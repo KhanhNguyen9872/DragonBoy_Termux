@@ -1,12 +1,6 @@
-@ Version 5
-- Thêm Fix Android 12 khi chưa nhập KEY
-- Update source fix lỗi, thêm cải trang (Cần cài đặt lại database và không thể dùng file backup cũ)
-- Thêm các tính năng về Giftcode
-- Tự động sync IP Online, không cần phải mở online trước dragon sau, thích cái nào trước cũng được!
-- Xóa dòng KhanhNguyen9872 bên dưới game khi đang chơi
-- Tự động load lại web nếu chỉnh quyền truy cập phpMyAdmin
+@ Version 6
+- Sửa lỗi map, cải trang và 1 số icon
+- Lệnh admin có thể xem trong phần Bật admin cho account
 
->> Bản này không thể sử dụng database v4 cũ
-LƯU Ý: KHUYẾN KHÍCH NÊN BACKUP DATA GAME SAU ĐÓ CÀI ĐẶT LẠI
-BẠN CẦN CÀI ĐẶT PHIÊN BẢN NÀY TRƯỚC KHI SỬ DỤNG! ĐÂY LÀ BẮT BUỘC!
+>> Bản này không thể sử dụng database từ version 4 hoặc thấp hơn nhé!
 - Thanks for used <3
