@@ -1,6 +1,8 @@
-@ Version 6
-- Sửa lỗi map, cải trang và 1 số icon
-- Lệnh admin có thể xem trong phần Bật admin cho account
+@ Version 7
+- Thêm tùy chọn kích hoạt tài khoản trong menu -> 7
+- Sửa lỗi [Tự động kích hoạt tài khoản khi tạo tài khoản] trong menu -> -1 -> web
+- Phần [Tự động kích hoạt tài khoản khi tạo tài khoản] có thể áp dụng cho kể cả web, tạo tk trong game (trừ tạo tài khoản = menu)
+- Số lượng 1 vật phẩm trong Giftcode được đẩy lên từ 99 -> 9999
 
 >> Bản này không thể sử dụng database từ version 4 hoặc thấp hơn nhé!
 - Thanks for used <3
