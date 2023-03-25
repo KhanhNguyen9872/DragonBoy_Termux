@@ -53,7 +53,7 @@ admin
 ```
 
 ## Install
- - Tutorial: [Not Available](https://khanhnguyen9872.github.io/DragonBoy_Termux#)
+ - Tutorial: [Youtube](https://youtu.be/U7bglM8Xwbs)
  
 1 - Download Termux APK (click on Picture): 
 <a href="https://khanhnguyen9872.github.io/DragonBoy_Termux/CONF_FILE/termux_0.118.apk" target="_blank">
