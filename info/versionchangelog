@@ -1,9 +1,11 @@
-@ Version 8
-- Thêm chỉnh tỉ lệ đập đồ [lv1-8]
-- Thêm chỉnh HP, Dame Boss [65 boss] và 1 tùy chọn chỉnh 1 cho tất cả
-- Thêm tính năng Tự động backup data theo số phút bạn nhập
-- Sửa các file sau khi chỉnh bị dư nhiều dấu xuống dòng
-- Tự động kích hoạt tài khoản khi đăng ký trong game
+@ Version 9
+- Thêm [Thêm/xóa thông báo trong game]
+- Thêm mục Fix lỗi khởi tạo port 14445 khi chạy dragon
+- Thêm Reset clan cho account khi acc bị lỗi clan
+- Sửa lại không tự kích hoạt thành viên trong game, nếu muốn tự kích hoạt bạn có thể tìm mục đó tại [menu -> 7 -> -1 -> 2 -> 3]
+- Hiện PID Menu tại menu chính
+- Hiện tên tamp, menu, dragon tại các session
+- Chỉ chạy được 1 menu trên 1 Termux
 
 >> Bản này không thể sử dụng database từ version 4 hoặc thấp hơn nhé!
 - Thanks for used <3
