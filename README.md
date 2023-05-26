@@ -10,8 +10,8 @@
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage0.png" />
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage1.png" />
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-9-blue.svg?cacheSeconds=2592000" />
-  <img alt="Update" src="https://img.shields.io/badge/update-28/03/2023-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-10-blue.svg?cacheSeconds=2592000" />
+  <img alt="Update" src="https://img.shields.io/badge/update-26/05/2023-blue.svg?cacheSeconds=2592000" />
   <br />
   <img alt="Build Status" src="https://cloud.drone.io/api/badges/KhanhNguyen9872/DragonBoy_Termux/status.svg" />
 
@@ -90,8 +90,9 @@ install
 - [x] 9
 - [x] 10
 - [x] 11
-- [x] 12 [May crash]
-- [ ] 13 [Unknown]
+- [x] 12 [Need Fix]
+- [x] 13 [Need Fix]
+- [x] 14 [Need Fix]
 
 ## Download Emulator (x86_64)
 
