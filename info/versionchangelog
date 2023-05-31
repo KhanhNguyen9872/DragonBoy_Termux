@@ -1,10 +1,5 @@
-@ Version 10
-- Thêm tính năng CustomServer cho ae muốn chạy Server java nào cũng được
-- Update package lên mới nhất
-- Nâng cao 1 số thứ
-- Thêm Netbeans 17 vào phần CustomServer
-- CustomServer có thể đc chuyển sang bằng cách [menu -> 8 -> 0]
-- Có thể check số lần nhập key còn lại trong [menu -> 8 -> 11]
+@ Version 11
+- Thêm tính năng CustomWeb (Chỉ cần chuyển sang CustomServer là dùng được, truy cập vào 127.0.0.1:8080 để biết thêm chi tiết)
+- Loại bỏ 1 số tính năng không dùng được ở CustomServer
 
->> CÀI LẠI ĐỂ SỬ DỤNG ĐƯỢC PHIÊN BẢN NÀY <<
 - Thanks for used <3
