@@ -1,5 +1,8 @@
-@ Version 11
-- Thêm tính năng CustomWeb (Chỉ cần chuyển sang CustomServer là dùng được, truy cập vào 127.0.0.1:8080 để biết thêm chi tiết)
-- Loại bỏ 1 số tính năng không dùng được ở CustomServer
+@ Version 12
+- Giftcode add phần thêm chỉ số đồ
+- Update Server mới (Cần cài đặt lại với data mới)
+- Sửa lỗi Cài đặt lại Database không hoạt động trong 1 số trường hợp
+- Thêm nhiều boss mới
+- HP/Dame boss được giảm về mức hợp lý
 
 - Thanks for used <3
