@@ -10,8 +10,8 @@
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage0.png" />
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage1.png" />
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-12-blue.svg?cacheSeconds=2592000" />
-  <img alt="Update" src="https://img.shields.io/badge/update-11/10/2023-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-13-blue.svg?cacheSeconds=2592000" />
+  <img alt="Update" src="https://img.shields.io/badge/update-19/10/2023-blue.svg?cacheSeconds=2592000" />
   <br />
   <img alt="Build Status" src="https://cloud.drone.io/api/badges/KhanhNguyen9872/DragonBoy_Termux/status.svg" />
 
@@ -25,9 +25,6 @@
   <img alt="Github Download" src="https://img.shields.io/github/downloads/KhanhNguyen9872/DragonBoy_Termux/total.svg?style=for-the-badge" />
   <img alt="Github Releases" src="https://img.shields.io/github/release/KhanhNguyen9872/DragonBoy_Termux.svg?style=for-the-badge" />
 </p>
-<a href="https://twitter.com/Khnh59855418" target="_blank">
-    <img alt="Twitter: khanh9872" src="https://img.shields.io/twitter/follow/Khnh59855418.svg?style=social" />
-</a>
 
 <a href="https://github.com/KhanhNguyen9872" target="_blank">
     <img alt="Follow Total" src="https://img.shields.io/github/followers/KhanhNguyen9872?style=social" />
