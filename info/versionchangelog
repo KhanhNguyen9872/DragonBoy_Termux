@@ -1,14 +1,9 @@
-@ Version 13
-- Sửa lỗi clan id khi đăng nhập tài khoản (Tự động thoát khỏi clan nếu clan không tồn tại)
-- Thêm tự động load lại menu chính mà không cần ấn Enter (Có thể tùy chỉnh trong cài đặt menu)
-- Thêm phần tự ẩn các tính năng chỉ hiện thông tin IP/Máy/... (Có thể tùy chỉnh trong cài đặt menu)
-- Tự động cài lại database khi database không tồn tại
-- Netbeans được update lên version 19 mới nhất cho ARM64/x86_64 (Riêng ARM32 sẽ vẫn là Netbeans 17)
-- Nhận vàng, ngọc chỉ khả dụng cho Admin (Người chơi vẫn có thể nhận được Đệ tử)
-- Thêm cảnh báo đây là giả lập và kèm theo 1 số lời khuyên
-- Sửa lỗi vấn đề cài đặt lại database và hiển thị Recaf đang chạy
-- Hiển thị các lệnh của admin tại phần kích hoạt Admin
-- Sửa lỗi Netbeans không thể chạy trên Giả lập x86_64
-- Thêm chỉnh nhận vàng/ngọc/thỏi vàng khi tạo tài khoản
+@ Version 14
+- Sửa lỗi tạo nhân vật
+- Sửa lỗi không thể nhập 'unlock'
+- Sửa lỗi tự động cài đặt lại database bị sai cơ chế
+- Sửa lỗi tự chỉnh sửa data web Custom
+- Sửa lỗi lệnh lock và thời gian lock không hoạt động ở CustomServer
+- Sửa lỗi cài đặt lại database không hoàn chỉnh
 
 - Thanks for used <3
