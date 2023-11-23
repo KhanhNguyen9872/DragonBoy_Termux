@@ -1,5 +1,7 @@
 recaf: 590
 recafInstalled: 1685
+mongodb: 125
+mongodbInstalled: 1024
 netbeans: 610
 netbeansInstalled: 2200
 image: 370
