@@ -1,9 +1,18 @@
-@ Version 14
-- Sửa lỗi tạo nhân vật
-- Sửa lỗi không thể nhập 'unlock'
-- Sửa lỗi tự động cài đặt lại database bị sai cơ chế
-- Sửa lỗi tự chỉnh sửa data web Custom
-- Sửa lỗi lệnh lock và thời gian lock không hoạt động ở CustomServer
-- Sửa lỗi cài đặt lại database không hoàn chỉnh
+@ Version 15
+- Thêm Buff cho Đệ tử
+- Thêm Chỉnh Shop trong game (menu -> 7 -> 23)
+- Thêm Online Mode giữ IP:Port như VPS
+- Thêm Gỡ cài đặt cho Web Online
+- Giảm chỉnh kinh nghiệm Server về tối đa 100
+- Điều chỉnh Buff HP MP Dame,... ở mức tối đa không lỗi
+- Thêm Test ping cho Online Mode giữ IP
+- Sử dụng SQL để hiển thị ID Vật phẩm, Quái,...
+- Sửa lỗi Netbeans và Recaf gặp vấn đề khởi chạy
+- Bỏ Netbeans Root (lỗi tương thích)
+- Sửa lỗi và tối ưu tự động chỉnh IP server
+- Update ngrok Online lên v3.5.0
+- Chuyển encode SQL sang UTF8
+- Ẩn 1 số mục không cần thiết trong 1 số tính năng
+- Sửa thêm 1 số lỗi nhỏ không đáng nói
 
 - Thanks for used <3
