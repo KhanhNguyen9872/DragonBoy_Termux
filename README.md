@@ -3,7 +3,7 @@
  - Thời hạn: Vĩnh viễn
  - Giá: 50k/1 Key
 1. Chuyển khoản vào: 0937927513 mbbank hoặc momo
-2. Chụp hình bill đã chuyển và gửi qua Zalo: 0937927513
+2. Chụp hình bill đã chuyển và gửi qua Zalo: 0328460695
 3. Chờ tui online:>>>
 
 <h1 align="center">Welcome to DragonBoy_Termux 👋</h1>
